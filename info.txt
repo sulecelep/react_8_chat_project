@@ -1,0 +1,47 @@
+client:
+npx create-react-app .
+
+wsl'de:
+npm install --global yarn yazdık
+
+
+App.js 'e Context'i alcaz import etcez
+
+
+
+backend:
+wsl de 
+npm install yazdık
+.env adında dosya açtık redisle bağlantı oluşturacak
+yeni cmd açıp
+yarn global add nodemon   yazdık enter yaptık
+
+
+
+ana klasör:
+
+
+
+
+wsl'de npm start yapılacak 3001 port olmalı gerekirse iki kere start yap
+
+
+ubuntuyu açıp:
+redis-server yazdık 
+sonra VSCode'a cmd'de npm start yazıp listening yazdığında 
+tekrar cmd açıp npm start yazdık ve tarayıcıda localhost:3000 yazdıktan sonra
+Merhaba Socket.IO yazısı çıkmalı
+
+sonra cmd ye gelip cd client npm start yapıp yes diyelim
+
+clientta npm install socket.io-client yazdık 
+yarn add socket.io-client yazdık 
+yarn start yaptık
+
+
+
+
+
+
+
+
